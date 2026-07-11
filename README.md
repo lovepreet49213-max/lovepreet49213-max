@@ -592,28 +592,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
----
-
-# 🚀 Profile Checklist
-
-- [x] Animated Hero Banner
-- [x] Typing Animation
-- [x] About Me
-- [x] Tech Stack
-- [x] Skills
-- [x] Featured Projects
-- [x] GitHub Stats
-- [x] Top Languages
-- [x] GitHub Streak
-- [x] Activity Graph
-- [x] Profile Summary
-- [x] GitHub Trophies
-- [x] Contribution Snake
-- [x] Visitor Counter
-- [x] Learning Roadmap
-- [x] Developer Quote
-- [x] Contact Links
-- [x] Support Section
 
 ---
 
