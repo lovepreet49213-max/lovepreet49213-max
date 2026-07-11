@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 # 👋 Hi, I'm Lovepreet Singh
@@ -219,4 +219,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00F7FF&height=120&section=footer"/>
 
 </div>
-```
+
